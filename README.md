@@ -2,11 +2,11 @@
 
 The code involves:
 * using the Spotify web API to fetch the current track being played
-* parse through the information recieved for the track name and the artist name
-* use the Genius API to look for the lyrics of the current track
-* wrangle the data recieved from genius and format it to a form that can be tweeted
-* choose a verse/line at random to be tweeted
-* use the Twitter API to send out the tweet
+* parsing through the information recieved for the track name and the artist name
+* using the Genius API to look for the lyrics of the current track
+* wrangling the data recieved from genius and format it to a form that can be tweeted
+* choosing a verse/line at random to be tweeted
+* using the Twitter API to send out the tweet
 
 The code for the bot is private as it includes sensitive information required to connect to the Spotify, Genius & Twitter APIs.
 
