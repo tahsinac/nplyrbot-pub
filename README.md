@@ -12,4 +12,4 @@ The code for the bot is private as it includes sensitive information required to
 
 Read about why I thought building this bot was a good idea [in this medium article](https://medium.com/@tahsinac/lyrics-are-a-form-of-literature-this-twitter-bot-will-help-you-see-it-a8f19cc1078e).
 
-Follow the bot, [@taclyricbot](https://twitter.com/taclyricbot) on twitter.
+Check out the the bot, [@taclyricbot](https://twitter.com/taclyricbot) on twitter.
